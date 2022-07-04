@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Dr Jianping Meng
 description: Computational Scientist
-#logo: img/jpmeng.jpg
+logo: img/jpmeng.jpg
 
-{% imagesize /img/jpmeng.jpg %} >> 100x100
